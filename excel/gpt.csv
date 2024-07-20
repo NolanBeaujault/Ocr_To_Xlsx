@@ -1,0 +1,10 @@
+Phase,IN,Pressure Test,STAB,RAMP,STAB,STEAM DCE,OX,DIFF,RAMPDOWN,OUT
+Temperature,700,700,700,920,920,920,920,920,700,700
+Ramp (°C/min),,,,5,,,,,2,
+Durée (hh : min),,00:01,00:10,00:34,00:15,Temps VAR,00:05,00:10,02:10,
+O2 (L/min),,,,,,,3.9,4,,
+H2 (L/min),,,,,,,,4,,
+N2 (L/min),10,1,10,10,10,10,4,10,10,10
+O2low (cc/min),200,,200,200,200,,,,,
+N2DCE (cc/min),,,,,,,90,,,
+Boat speed (cm/min),10,,,,,,,,,10
