@@ -9,8 +9,3 @@ This project contains two Jupyter Notebooks:
 
 - `opencv-python`, `pytesseract`, `pandas`, `openpyxl`
 - Tesseract-OCR installed on your system
-
-## Setup
-
-```bash
-pip install -r requirements.txt
